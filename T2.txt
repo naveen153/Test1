@@ -1,0 +1,14 @@
+ Volume in drive D is New Volume
+ Volume Serial Number is 862F-D324
+
+ Directory of D:\Devapps\GIT-Notes\GetPractice
+
+12/19/2018  01:53 PM                 0 Naveen.html
+12/19/2018  01:53 PM                 6 Naveen.txt
+12/19/2018  01:34 PM                 3 Naveen1.txt
+12/20/2018  07:41 AM                 3 T1.txt
+12/20/2018  09:40 AM                 0 T2.txt
+12/19/2018  07:36 PM                 3 Test1.txt
+12/19/2018  06:49 PM                 3 Text1.txt
+               7 File(s)             18 bytes
+               0 Dir(s)  113,687,429,120 bytes free
